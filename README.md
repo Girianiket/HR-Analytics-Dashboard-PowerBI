@@ -30,4 +30,38 @@ What insights can be drawn from the correlation between salary and attrition lev
 
 - Dashboard <a href = "https://github.com/Girianiket/HR-Analytics-Dashboard-PowerBI/blob/main/HR_ANALYTICS_DASHBOAR_PNG.png"> Click to view Dashboard </a>
 
+### PROCESS
+
+Import Data – 
+   Load the HR dataset (Excel/CSV) into Power BI using “Get Data”.
+
+Data Cleaning – 
+   Use Power Query Editor to remove nulls, correct data types, and rename columns.
+
+Create Calculated Fields – 
+   Add measures like
+
+   Attrition Rate = (Attrition / Total Employees) * 100
+
+   Avg Salary, Avg Age, Avg Years, etc.
+
+Build Visuals –
+
+   Use Cards for KPIs (Count of Employees, Attrition Rate, etc.)
+
+   Bar/Column charts for Attrition by Age, Salary, Role, Years
+
+   Donut chart for Education
+
+   Stacked bar for Gender
+
+Apply Filters & Slicers –
+   Add Department slicers (HR, Sales, R&D) for interactive filtering.
+
+Design & Formatting –
+
+   Use a dark/red gradient background
+
+Adjust color themes and align visuals neatly for a professional look.
+
 
