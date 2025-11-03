@@ -28,4 +28,6 @@ Among the departments — Human Resources, Research & Development, and Sales —
 
 What insights can be drawn from the correlation between salary and attrition levels?
 
+- Dashboard <a href = "https://github.com/Girianiket/HR-Analytics-Dashboard-PowerBI/blob/main/HR_ANALYTICS_DASHBOAR_PNG.png"> Click to view Dashboard </a>
+
 
