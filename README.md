@@ -3,6 +3,36 @@
 ## PROJECT OBJECTIVE
 Helping an Organization to improve employees performance, Improve employees retention(reduce attrition) 
 
+
+### KPI REQUIREMENTS 
+
+Total Employees –Total count of employees in the organization.
+
+    KPI: Count of Employee = 1470
+
+Total Attrition – Number of employees who left the company.
+
+
+    KPI: Attrition = 237
+
+Attrition Rate – Percentage of employees who left compared to total employees.
+ 
+    KPI: (Attrition / Total Employees) × 100 = 16.1%
+
+Average Age –  Mean age of all employees.
+ 
+    KPI: 37 years 
+
+Average Salary – Mean monthly income of employees.
+
+    KPI: 6.5K
+
+Average Years at Company –  Average tenure of employees.
+ 
+    KPI: 7 years
+
+
+
 ### DATA SET
 - Data set used <a href = "https://github.com/Girianiket/HR-Analytics-Dashboard-PowerBI/blob/main/HR_Analytics%20Data_set.csv"> Click to view and download dataset </a>
 
@@ -50,12 +80,9 @@ Build Visuals – Use Cards for KPIs (Count of Employees, Attrition Rate, etc.)
 
     Stacked bar for Gender
 
-Apply Filters & Slicers –
-   Add Department slicers (HR, Sales, R&D) for interactive filtering.
+Apply Filters & Slicers – Add Department slicers (HR, Sales, R&D) for interactive filtering.
 
-Design & Formatting –
-
-   Use a dark/red gradient background
+Design & Formatting – Use a dark/red gradient background
 
 Adjust color themes and align visuals neatly for a professional look.
 
